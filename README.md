@@ -1,2 +1,2 @@
 # stat_thermo_ucm
-codes from CHEM 214 (Statistical Thermodynamics)
+Code for CHEM 214 (Fall 2017): Ising model, with Metropolis and Wolff algorithms
